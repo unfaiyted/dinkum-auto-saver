@@ -2,7 +2,8 @@
 
 I wrote this mod to allow to automatically save at a give time interval.
 
-This has been helpful if you have been finding that you have disconnection issues from time to time or power issues for example. You will lose a lot less of your day with autosave way. Is this is something that you have an issues with this mod could help.
+This has been helpful if you have been finding that you have disconnection issues from time to time or power issues for example. You will lose a lot less of your day with autosave. So if that is this is something that you have an issues with this mod could help.
+>>>>>>> c292d53 (chore: create readme)
 The application comes with a few option that can be configured within the configuration file that is generated after the first run of Dinkem with the mod installed.
 
 ## Default Hotkeys
